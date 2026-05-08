@@ -35,13 +35,5 @@ Chạy script sau trong thư mục `_Python`:
 python RemoveAllMeta.py
 ```
 
-## Cài đặt qua Unity Package Manager
-1. Đưa thư mục này lên GitHub.
-2. Trong Unity, mở Window > Package Manager > Add package from git URL...
-3. Dán đường dẫn:
-```
-https://github.com/<your-username>/Utils.Cheat.git
-```
-
 ## License
 MIT
