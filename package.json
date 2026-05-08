@@ -1,0 +1,13 @@
+{
+  "name": "utils.cheat",
+  "displayName": "Utils Cheat",
+  "version": "1.0.0",
+  "description": "Thư viện hỗ trợ kiểm tra checksum và che giấu dữ liệu bộ nhớ cho Unity (C#)",
+  "unity": "2019.4.0",
+  "author": {
+    "name": "YourName",
+    "email": "your@email.com"
+  },
+  "keywords": ["unity", "checksum", "obfuscation", "memory", "security"],
+  "license": "MIT"
+}
